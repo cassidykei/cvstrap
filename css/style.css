@@ -1,8 +1,7 @@
 body {
     background: #f4f4f4;
     color: #757575;
-    font-family: 'Alegreya Sans', sans-serif;
-    letter-spacing: 2px;
+    font-family: 'Open Sans', sans-serif;
     padding-bottom: 60px;
 }
 
@@ -31,6 +30,7 @@ h1 {
     text-transform: uppercase;
     color: #000;
     margin: 0;
+    font-family: 'Montserrat', sans-serif;
 }
 
 h2 {
@@ -122,5 +122,5 @@ blockquote {
 
 footer p,
 footer a {
-    font-size: 13px;
+    font-size: 10px;
 }
